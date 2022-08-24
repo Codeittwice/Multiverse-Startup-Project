@@ -1,0 +1,8 @@
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\Unity Projects\Work\Multiverse-Starting-Project\_GameServer\GameServer\GameServer\obj\Debug\GameServer.pdb
