@@ -15,6 +15,10 @@ namespace GameServer
 
         public static Dictionary<int, Client> clients = new Dictionary<int, Client>();
 
+        public delegate void PacketHandler(int fromClient, Packet _packet);
+
+        public static Dictionary<int, PacketHandler> packetHandlers;
+
         private static TcpListener tcpListener;
 
         public static void Start(int _maxPlayers, int _port)
@@ -56,6 +60,11 @@ namespace GameServer
             {
                 clients.Add(i, new Client(i));
             }
+            packetHandlers = new Dictionary<int, PacketHandler>()
+            {
+            {(int)ClientPackets.welcomeReceived, ServerHandle.WelcomeReceived }
+            };
+            Console.WriteLine("Initialized packets.");
         }
     }
 }
